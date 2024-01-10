@@ -34,3 +34,5 @@ while i < 6:
     if correct == True:
         break
     i += 1
+
+number_c.help()
